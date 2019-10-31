@@ -3,6 +3,7 @@ title: hexo使用教程
 date: 2019-10-30 09:59:07
 tags: [hexo, 教程]
 ---
+
 ### 一.创建hexo
 ```bash
     hexo new pagename 创建一个post模板的页面
@@ -19,7 +20,7 @@ tags: [hexo, 教程]
 ```
 
 #### 1. wordcount is not defined 报错！
-![](./hexo/wordcount.png)
+{% asset_img wordcount.png This is an example image %}
 这是因为你使用的theme里面开启了字数统计功能，且项目未安装wordcount插件，解决方案如下：
 ```
     1. 安装 wordcount 依赖即可
