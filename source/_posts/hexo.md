@@ -2,6 +2,7 @@
 title: hexo使用教程
 date: 2019-10-30 09:59:07
 tags: [hexo, 教程]
+image: https://img.meituan.net/msmerchant/46f2b1b3049c72495540ee4a6ac91ac7441906.jpg #摘要图片吧
 ---
 
 ### 一.创建hexo
